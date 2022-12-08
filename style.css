@@ -1,0 +1,38 @@
+.button{
+    height: 2rem;
+    width: 2rem;
+    border: 1px solid black;
+    color: blue;
+    margin: 5px;
+    
+}
+.row{
+    display:flex;
+    justify-content: center;
+}
+.inputbox{
+
+    display: flex;
+    justify-content: center;
+}
+.Outer{
+    height: 20rem;
+    width: 20rem;
+    border: 3px solid black;
+    padding: 0.5rem;
+     margin-left: 25rem;
+}
+     
+input{
+    height: 2rem;
+    width: 10rem;
+    border: 2px solid black;
+    text-align: right;
+
+}
+h1{
+    margin-left: 5rem;
+}
+
+
+    
